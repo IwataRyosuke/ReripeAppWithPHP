@@ -61,10 +61,10 @@
 				</div>
 				<div class="minicontainer">
 					<div class="updateDate">
-						<p class="date"><?php echo "[[$date]]" ?></p>
+						<p class="date"><?php echo $date ?></p>
 					</div>
 					<div class="fav">
-						<img src="images/heart.png">
+						<img id="heart" src="images/heart.png">
 					</div>
 				</div>
 			</div>

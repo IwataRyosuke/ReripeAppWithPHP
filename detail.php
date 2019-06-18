@@ -50,7 +50,7 @@
 				?>
 			<div class="">
 				<div class="">
-					<h1 id="americanBurgers" class="food-name"><?php echo $title ?></h1>
+					<h1 id="foods" class="food-name"><?php echo $title ?></h1>
 					<h4 id="cooking-time"><?php echo "$date" ?> </h4>
 				</div>
 			</div>
